@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 3. **Ejecuta la aplicación:**
 ```bash
-python test.py
+python Gestor de Procesos - Versión GUI Beta V.1.py
 ```
 
 ## 🎯 Uso
